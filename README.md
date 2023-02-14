@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Calculator App" title="Calculator App" src="./assets/icon-calculator.png" />
+  Calculator App
 </h1>
 
 <p align="center">
