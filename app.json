@@ -2,12 +2,12 @@
   "expo": {
     "name": "Calculator",
     "slug": "Calculator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon-calculator.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash-calculator.png",
+      "image": "./assets/splash-screen-calculator.png",
       "resizeMode": "contain",
       "backgroundColor": "#2d2a37"
     },
