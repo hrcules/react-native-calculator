@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Calculator",
-    "slug": "Calculator",
+    "slug": "calculator-expo",
     "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon-calculator.png",
