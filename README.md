@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Calculator App" title="Calculator App" src="./calculator-logo.png" />
+  Calculator App
 </h1>
 
 <p align="center">
@@ -29,6 +29,7 @@ Uma calculadora para uso simples do dia a dia.
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie seu app com `expo start`
+- Ou baixe e instale o app <a id="raw-url" href="https://raw.githubusercontent.com/hrcules/react-native-calculator/main/calculatorApp">Download FILE</a>
 
 ## 📄 Licença
 
